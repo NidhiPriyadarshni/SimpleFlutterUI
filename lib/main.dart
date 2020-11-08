@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(MyApp());//using MyApp as widget
   //runApp(Root());
 }
 class Root extends StatelessWidget {
